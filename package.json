@@ -20,7 +20,7 @@
     "cookie": "^0.4.1",
     "core-js": "^3.8.2",
     "js-cookie": "^2.2.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.14.12",
     "nuxt-gmaps": "^1.2.10",
     "nuxt-gsap": "^0.1.4",
